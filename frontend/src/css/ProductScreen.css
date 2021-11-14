@@ -1,0 +1,29 @@
+.collapse-play-icon{
+  height: 30px;
+  width: 30px;
+}
+
+/* .content-collapse-button , .content-collapse-button:hover {
+  background-color: rgb(134, 205, 226);
+} */
+
+.videoscreen{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.triangle-product-screen{
+  height: 15px;
+  width: 15px;
+}
+
+.collapse-button, .collapse-button:hover, .collapse-button:active{
+  background-color: transparent !important;
+  color: black !important;
+  font-weight: 500;
+  font-size: 14px;
+  border: 1px solid black;
+  box-shadow: none !important;
+  outline : hidden;
+}
